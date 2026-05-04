@@ -6,3 +6,27 @@
 The company operates a **Global E-Commerce Business** serving customers across multiple regions.
 
 <br>
+
+## 📌 Objective
+
+<br>
+
+## 📌 Dataset overview
+
+<br>
+
+## 📌 Key findings (ringkas)
+
+<br>
+
+## 📌 Business impact
+
+<br>
+
+## 📌 Recommendation
+
+<br>
+
+## 📌 Tools used
+
+<br>
