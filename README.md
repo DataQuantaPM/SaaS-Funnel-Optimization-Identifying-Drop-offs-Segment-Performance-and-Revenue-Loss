@@ -1,5 +1,7 @@
 # SaaS-Funnel-Optimization-Identifying-Drop-offs-Segment-Performance-and-Revenue-Loss
 
+<img src="All conv n funnel overall.jpg" width="800">
+
 <br>
 
 ## 📌 Background problem
