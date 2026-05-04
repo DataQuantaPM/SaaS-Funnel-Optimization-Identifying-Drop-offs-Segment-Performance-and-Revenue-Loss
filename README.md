@@ -13,6 +13,12 @@ This project analyzes where users drop off in the funnel and explores whether di
 
 ## 📌 Objective
 
+The objective of this project is to analyze user behavior across the SaaS funnel and identify key drop-off points that may affect conversion.
+
+This project also aims to compare conversion performance across different acquisition sources to understand whether certain channels, especially paid ads, contribute to lower efficiency.
+
+Finally, the analysis seeks to estimate the potential business impact of these drop-offs and highlight opportunities to improve conversion and revenue.
+
 <br>
 
 ## 📌 Dataset overview
