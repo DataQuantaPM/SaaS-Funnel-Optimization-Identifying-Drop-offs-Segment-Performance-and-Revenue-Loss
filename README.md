@@ -15,7 +15,7 @@ The company operates a **Global E-Commerce Business** serving customers across m
 
 <br>
 
-## 📌 Key findings (ringkas)
+## 📌 Key findings
 
 <br>
 
