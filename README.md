@@ -28,6 +28,7 @@ This dataset represents user activity in a SaaS platform, tracking user progress
 Each row represents a user event, meaning a single user can appear multiple times across different funnel steps and sessions.
 
 <br>
+
 The dataset includes the following key fields:
 
 🔹 **user_id**: unique identifier for each user
@@ -47,6 +48,7 @@ The dataset includes the following key fields:
 🔹 **plan_type**: subscription type (free, basic, pro)
 
 🔹 **revenue**: revenue generated from purchase events
+
 <br>
 
 The dataset contains typical data quality issues, such as missing values, inconsistent labeling, and duplicate records.
