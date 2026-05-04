@@ -1,6 +1,6 @@
 # SaaS-Funnel-Optimization-Identifying-Drop-offs-Segment-Performance-and-Revenue-Loss
 
-<img src="Images/All conversion n funnel overall.png" width="800">
+<img src="Images/All conversion n funnel overall.png" width="700">
 
 <br>
 
