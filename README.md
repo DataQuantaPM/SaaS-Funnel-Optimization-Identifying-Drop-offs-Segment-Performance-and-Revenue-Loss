@@ -23,6 +23,23 @@ Finally, the analysis seeks to estimate the potential business impact of these d
 
 ## 📌 Dataset overview
 
+This dataset represents user activity in a SaaS platform, tracking user progression across key funnel stages from signup to purchase.
+
+Each row represents a user event, meaning a single user can appear multiple times across different funnel steps and sessions.
+
+The dataset includes the following key fields:
+🔹 **user_id**: unique identifier for each user
+🔹 **session_id**: identifier for each user session
+🔹 **event_time**: timestamp of the event
+🔹 **event_name**: funnel step (e.g., signup, onboarding, trial, purchase)
+🔹 **source**: user acquisition channel (organic, ads, referral, social)
+🔹 **country**: user location
+🔹 **device**: device type (mobile, desktop, tablet)
+🔹 **plan_type**: subscription type (free, basic, pro)
+🔹 **revenue**: revenue generated from purchase events
+
+The dataset contains typical data quality issues, such as missing values, inconsistent labeling, and duplicate records.
+
 <br>
 
 ## 📌 Key findings
