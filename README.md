@@ -3,11 +3,11 @@
 <br>
 
 ## 📌 Background problem
-In SaaS businesses, converting users across the funnel is essential for revenue growth. 
+In SaaS B2C businesses, converting users through each stage of the funnel is important for driving revenue. 
 
-However, conversion rates often decline at key stages, leading to potential revenue loss.
+However, many users drop off at key stages, which can reduce overall conversion and lead to lost revenue.
 
-This project investigates user drop-offs across the funnel and examines whether acquisition sources, particularly paid channels, contribute to inefficient conversion and reduced return on investment.
+This project analyzes where users drop off in the funnel and explores whether different acquisition sources, especially paid channels, affect conversion performance and marketing efficiency.
 
 <br>
 
