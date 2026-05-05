@@ -99,15 +99,17 @@ This makes the trial stage the most critical point to improve.
 ## 📌 Business impact
 
 
-🔹The main revenue problem happens between onboarding completion and trial, especially for users coming from ads.
+The main revenue problem happens between onboarding completion and trial, especially for users coming from ads.
 
-🔹Even though many users complete onboarding, the ads channel performs poorly in moving users to the trial stage. Based on other sources, ads should generate around 159 trial users, but only 106 users actually start a trial.
+Even though many users complete onboarding, the ads channel performs poorly in moving users to the trial stage. 
+
+Based on other sources, ads should generate around 159 trial users, but only 106 users actually start a trial.
 
 This creates a gap of 53 users who could have entered the trial stage but did not.
 
 If we assume a 10% conversion rate from trial to purchase, this means around 5 potential paying users are lost.
 
-🔹With an average revenue per user (ARPU) of about $50, this results in an estimated revenue loss of $250.
+With an average revenue per user (ARPU) of about $50, this results in an estimated revenue loss of $250.
 
 Compared to the current total revenue of $1,970, fixing this issue could increase revenue by around 12.5%.
 
