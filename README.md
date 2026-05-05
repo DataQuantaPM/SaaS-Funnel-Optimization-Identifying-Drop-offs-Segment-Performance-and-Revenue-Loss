@@ -137,7 +137,6 @@ For example:
 
 Ensure that what users see in ads matches what they experience in the product.  
 If there is a mismatch, users may lose interest after onboarding.
-
 Focus on setting the right expectations in ads to attract higher-quality users.
 
 <br>
