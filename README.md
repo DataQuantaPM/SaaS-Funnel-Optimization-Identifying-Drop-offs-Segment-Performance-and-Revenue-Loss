@@ -145,7 +145,6 @@ Focus on setting the right expectations in ads to attract higher-quality users.
 **🔹 Add contextual prompts after onboarding**
 
 Introduce in-app prompts or reminders right after users complete onboarding.
-
 These prompts can encourage users to start a trial by explaining what they will gain from it.
 
 <br>
