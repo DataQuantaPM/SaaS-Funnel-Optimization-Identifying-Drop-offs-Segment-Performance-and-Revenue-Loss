@@ -63,36 +63,36 @@ The dataset contains typical data quality issues, such as missing values, incons
 
 **🔹 Significant drop-off occurs in the late funnel stages**
 
-A large number of users successfully complete onboarding, but only a small portion proceed to trial and purchase.  
-This indicates that the main conversion issue happens after users finish onboarding, particularly at the trial entry stage.
+Many users successfully complete onboarding, but only a small number continue to trial and purchase.  
+This shows that the main issue happens after onboarding, especially when users are expected to start a trial.
 
 <br>
 
 **🔹 Paid ads drive high traffic but lower conversion quality**
 
-Users acquired through ads contribute a large share of total traffic, but their conversion from onboarding to trial is significantly lower compared to other sources.  
-This results in a substantial gap between expected and actual trial users, indicating inefficiency in paid acquisition.
+Users from ads make up a large part of total traffic, but their conversion rate from onboarding to trial is lower than other sources.  
+This creates a gap between expected and actual trial users, showing that paid traffic may not be well targeted.
 
 <br>
 
 **🔹 Organic and referral channels show stronger conversion performance**
 
-Although they contribute fewer users, organic and referral sources maintain higher conversion rates across later funnel stages.  
-This suggests stronger user intent and better alignment with product value.
+Even though they bring fewer users, organic and referral sources have higher conversion rates in the later stages.  
+This suggests these users have stronger intent and better fit with the product.
 
 <br>
 
 **🔹 Measurable user loss in trial stage (Ads segment)**
 
-Based on benchmark conversion (~35%), the ads channel is expected to generate around 159 trial users.  
-However, only 106 users reached the trial stage, resulting in a gap of approximately 53 lost users.
+Based on a benchmark conversion rate (~35%), ads are expected to generate around 159 trial users.  
+In reality, only 106 users reached the trial stage, meaning about 53 users were lost.
 
 <br>
 
 **🔹 Potential revenue loss is concentrated in the trial stage**
 
-The missing 53 trial users translate into an estimated loss of ~5 paying users, assuming a 10% trial-to-purchase conversion rate.  
-This highlights the trial stage as the most critical revenue bottleneck.
+The loss of 53 trial users leads to an estimated loss of about 5 paying users, assuming a 10% conversion from trial to purchase.  
+This makes the trial stage the most critical point to improve.
 
 <br>
 
