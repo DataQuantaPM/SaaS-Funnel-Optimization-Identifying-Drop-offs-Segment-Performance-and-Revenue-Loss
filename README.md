@@ -64,28 +64,35 @@ The dataset contains typical data quality issues, such as missing values, incons
 **🔹 Significant drop-off occurs in the late funnel stages**
 
 A large number of users successfully complete onboarding, but only a small portion proceed to trial and purchase.  
-This indicates that the main conversion issue happens after users finish onboarding, not at the early stages.
+This indicates that the main conversion issue happens after users finish onboarding, particularly at the trial entry stage.
 
 <br>
 
 **🔹 Paid ads drive high traffic but lower conversion quality**
 
-Users acquired through ads represent a large portion of total traffic, but their conversion rates from onboarding to trial and purchase are lower compared to other sources. 
-This suggests that paid acquisition may bring less qualified users.
+Users acquired through ads contribute a large share of total traffic, but their conversion from onboarding to trial is significantly lower compared to other sources.  
+This results in a substantial gap between expected and actual trial users, indicating inefficiency in paid acquisition.
 
 <br>
 
 **🔹 Organic and referral channels show stronger conversion performance**
 
-Although they contribute fewer users, organic and referral sources have higher conversion rates in the later stages of the funnel.  
-This indicates better user intent or higher-quality acquisition.
+Although they contribute fewer users, organic and referral sources maintain higher conversion rates across later funnel stages.  
+This suggests stronger user intent and better alignment with product value.
+
+<br>
+
+**🔹 Measurable user loss in trial stage (Ads segment)**
+
+Based on benchmark conversion (~35%), the ads channel is expected to generate around 159 trial users.  
+However, only 106 users reached the trial stage, resulting in a gap of approximately 53 lost users.
 
 <br>
 
 **🔹 Potential revenue loss is concentrated in the trial stage**
 
-A significant number of users drop off before starting a trial, which directly limits the number of potential paying users.  
-Improving conversion at this stage could have a meaningful impact on revenue.
+The missing 53 trial users translate into an estimated loss of ~5 paying users, assuming a 10% trial-to-purchase conversion rate.  
+This highlights the trial stage as the most critical revenue bottleneck.
 
 <br>
 
