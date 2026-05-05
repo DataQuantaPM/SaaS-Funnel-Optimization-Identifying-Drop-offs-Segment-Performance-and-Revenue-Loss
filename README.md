@@ -119,6 +119,68 @@ This means improving the onboarding to trial step especially for ads users—can
 
 ## 📌 Recommendation
 
+**🔹 Improve onboarding-to-trial experience for ads users**
+
+Simplify the transition from onboarding to trial by reducing friction.
+
+For example:
+
+- Add a clear and visible “Start Free Trial” call-to-action
+
+- Reduce the number of steps required to begin a trial
+
+- Highlight key benefits before asking users to start the trial
+
+<br>
+
+**🔹 Align ad messaging with product value**
+
+Ensure that what users see in ads matches what they experience in the product.  
+If there is a mismatch, users may lose interest after onboarding.
+
+Focus on setting the right expectations in ads to attract higher-quality users.
+
+<br>
+
+**🔹 Add contextual prompts after onboarding**
+
+Introduce in-app prompts or reminders right after users complete onboarding.
+
+These prompts can encourage users to start a trial by explaining what they will gain from it.
+
+<br>
+
+**🔹 Segment and personalize the onboarding flow**
+
+Users from ads may need more guidance compared to organic users.  
+Consider creating a slightly different onboarding flow for ads users, with more explanation or product education.
+
+<br>
+
+**🔹 Run A/B testing on trial entry experience**
+
+Test different variations of:
+
+- CTA placement
+
+- Trial messaging
+
+- Incentives (e.g., limited-time offers)
+
+Measure which version improves conversion from onboarding to trial.
+
+<br>
+
+**🔹 Improve trial incentives for paid users**
+
+Offer stronger incentives for ads users to start a trial, such as:
+
+- Extended trial period
+
+- Discount on first purchase
+
+- Bonus features during trial
+
 <br>
 
 ## 📌 Tools used
