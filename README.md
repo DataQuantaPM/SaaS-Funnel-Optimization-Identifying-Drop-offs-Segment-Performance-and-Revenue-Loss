@@ -73,11 +73,7 @@ This suggests that paid acquisition may bring less qualified users.
 Although they contribute fewer users, organic and referral sources have higher conversion rates in the later stages of the funnel.  
 This indicates better user intent or higher-quality acquisition.
 
-**4. Data quality issues can affect analysis accuracy**  
-The dataset includes inconsistencies such as duplicate records, missing values, and inconsistent labels.  
-Without proper cleaning, these issues can lead to incorrect funnel calculations and misleading insights.
-
-**5. Potential revenue loss is concentrated in the trial stage**  
+**4. Potential revenue loss is concentrated in the trial stage**  
 A significant number of users drop off before starting a trial, which directly limits the number of potential paying users.  
 Improving conversion at this stage could have a meaningful impact on revenue.
 
