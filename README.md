@@ -66,15 +66,21 @@ The dataset contains typical data quality issues, such as missing values, incons
 A large number of users successfully complete onboarding, but only a small portion proceed to trial and purchase.  
 This indicates that the main conversion issue happens after users finish onboarding, not at the early stages.
 
+<br>
+
 **2. Paid ads drive high traffic but lower conversion quality**
 
 Users acquired through ads represent a large portion of total traffic, but their conversion rates from onboarding to trial and purchase are lower compared to other sources. 
 This suggests that paid acquisition may bring less qualified users.
 
+<br>
+
 **3. Organic and referral channels show stronger conversion performance**
 
 Although they contribute fewer users, organic and referral sources have higher conversion rates in the later stages of the funnel.  
 This indicates better user intent or higher-quality acquisition.
+
+<br>
 
 **4. Potential revenue loss is concentrated in the trial stage**
 
