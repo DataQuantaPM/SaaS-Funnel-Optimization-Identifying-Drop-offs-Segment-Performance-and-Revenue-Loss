@@ -99,7 +99,7 @@ This makes the trial stage the most critical point to improve.
 ## 📌 Business impact
 
 
-The main revenue problem happens between onboarding completion and trial, especially for users coming from ads.
+The **main revenue problem** happens between **onboarding completion and trial**, especially for users coming from ads.
 
 Even though many users complete onboarding, the ads channel performs poorly in moving users to the trial stage. 
 
