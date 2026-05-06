@@ -1,5 +1,7 @@
 # Funnel Analysis Insights
 
+<br>
+
 ## 🔍 Executive Summary
 
 The main conversion issue occurs in the **late funnel stages**, particularly from onboarding completion to trial and from trial to purchase.
@@ -9,6 +11,8 @@ Although top of funnel performance is strong, a large portion of users especiall
 <br>
 
 ## 1. Funnel Analysis
+
+
 
 ### 🔹 Key Insight — Late Funnel is the Primary Bottleneck
 
