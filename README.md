@@ -61,7 +61,7 @@ The dataset contains typical data quality issues, such as missing values, incons
 
 ## 📌 Key findings
 
-**🔹 Significant drop-off occurs in the late funnel stages**
+**🔹 Significant drop off occurs in the late funnel stages**
 
 Many users successfully complete onboarding, but only a small number continue to trial and purchase.  
 This shows that the main issue happens after onboarding, especially when users are expected to start a trial.
@@ -113,7 +113,7 @@ This means improving the onboarding to trial step especially for ads users can i
 
 ## 📌 Recommendation
 
-**🔹 Improve onboarding-to-trial experience for ads users**
+**🔹 Improve onboarding to trial experience for ads users**
 
 Simplify the transition from onboarding to trial by reducing friction.
 
@@ -137,7 +137,7 @@ Focus on setting the right expectations in ads to attract higher-quality users.
 
 **🔹 Add contextual prompts after onboarding**
 
-Introduce in-app prompts or reminders right after users complete onboarding.
+Introduce in app prompts or reminders right after users complete onboarding.
 These prompts can encourage users to start a trial by explaining what they will gain from it.
 
 <br>
