@@ -36,6 +36,8 @@ A significant drop occurs after onboarding completion:
 
 ## 2. Source Analysis
 
+<br>
+
 <img src="Images/Ads Conversion.png" width="500">   <img src="Images/Other Conversion.png" width="500">
 
 ### 🔹 Paid Ads Drive Volume but Lower Conversion Quality
