@@ -12,7 +12,6 @@ Although top of funnel performance is strong, a large portion of users especiall
 
 ## 1. Funnel Analysis
 
-<img src="Images/funnel conversion overall n step.png" width="600">
 
 ### 🔹 Key Insight — Late Funnel is the Primary Bottleneck
 
@@ -31,6 +30,9 @@ A significant drop occurs after onboarding completion:
 * Trial to purchase conversion is approximately ~10%
 
 👉 Even after entering the trial stage, many users do not convert into paying customers.
+
+
+<img src="Images/funnel conversion overall n step.png" width="600">
 
 <br>
 
