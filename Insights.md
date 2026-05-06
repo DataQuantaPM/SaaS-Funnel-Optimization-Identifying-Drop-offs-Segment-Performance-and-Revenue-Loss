@@ -4,9 +4,9 @@
 
 The main conversion issue occurs in the **late funnel stages**, particularly from onboarding completion to trial and from trial to purchase.
 
-Although top-of-funnel performance is strong, a large portion of users—especially from paid ads—fail to convert into trial users, resulting in missed revenue opportunities.
+Although top of funnel performance is strong, a large portion of users especially from paid ads fail to convert into trial users, resulting in missed revenue opportunities.
 
-
+<br>
 
 ## 1. Funnel Analysis
 
@@ -19,7 +19,7 @@ A significant drop occurs after onboarding completion:
 
 👉 This shows that the main issue is **not user acquisition or onboarding**, but converting engaged users into trial users.
 
----
+<br>
 
 ### 🔹 Trial to Purchase Conversion is Low
 
@@ -28,7 +28,7 @@ A significant drop occurs after onboarding completion:
 
 👉 Even after entering the trial stage, many users do not convert into paying customers.
 
----
+<br>
 
 ## 2. Source Analysis
 
@@ -40,9 +40,9 @@ A significant drop occurs after onboarding completion:
   * Onboarding → Trial
   * Trial → Purchase
 
-👉 This indicates that **ads bring high traffic but lower-intent users**, reducing overall funnel efficiency.
+👉 This indicates that **ads bring high traffic but lower intent users**, reducing overall funnel efficiency.
 
----
+<br>
 
 ### 🔹 Organic and Referral Channels Show Higher Quality
 
@@ -51,7 +51,7 @@ A significant drop occurs after onboarding completion:
 
 👉 This suggests **stronger user intent and better product fit** from these channels.
 
----
+<br>
 
 ## 3. Root Cause Hypothesis
 
@@ -66,7 +66,7 @@ Based on the observed patterns, several possible causes:
 
 👉 The problem is likely a combination of **acquisition quality and product experience gaps**
 
----
+<br>
 
 ## 4. Business Impact
 
@@ -84,28 +84,28 @@ With ARPU ≈ $50:
 
 * Estimated lost revenue: **~$250**
 
----
+<br>
 
 ### 📈 Revenue Opportunity
 
 * Current revenue: $1,970
-* Potential revenue: $2,250
+* Potential revenue: $2,220
 
 👉 This represents approximately:
 
 **+12.5% revenue increase**
 
----
+<br>
 
 ## 5. Recommendations
 
 ### 🔹 Improve Paid Ads Targeting
 
 * Refine audience segmentation
-* Focus on higher-intent users
-* Reduce spend on low-performing segments
+* Focus on higher intent users
+* Reduce spend on low performing segments
 
----
+<br>
 
 ### 🔹 Optimize Onboarding → Trial Transition
 
@@ -113,7 +113,7 @@ With ARPU ≈ $50:
 * Highlight product value more clearly
 * Introduce incentives (e.g., extended trial, onboarding prompts)
 
----
+<br>
 
 ### 🔹 Improve Trial Experience
 
@@ -121,7 +121,7 @@ With ARPU ≈ $50:
 * Reduce friction in early usage
 * Provide contextual nudges during trial
 
----
+<br>
 
 ### 🔹 Run Experimentation (A/B Testing)
 
@@ -129,7 +129,7 @@ With ARPU ≈ $50:
 * Test trial entry points and messaging
 * Measure impact on conversion rates
 
----
+<br>
 
 ## 📌 Final Takeaway
 
