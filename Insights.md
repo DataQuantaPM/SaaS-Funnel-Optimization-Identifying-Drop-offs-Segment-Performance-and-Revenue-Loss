@@ -12,7 +12,7 @@ Although top of funnel performance is strong, a large portion of users especiall
 
 ## 1. Funnel Analysis
 
-<img src="Images/funnel conversion overall n step.png" width="600">
+<img src="Images/funnel conversion overall n step.png" width="700">
 
 ### 🔹 Key Insight — Late Funnel is the Primary Bottleneck
 
