@@ -107,7 +107,7 @@ This creates a **gap of 53 users** who could have entered the trial stage but di
 If we assume a 10% conversion rate from trial to purchase, this means around **5 potential paying users** are lost.
 With an average revenue per user (ARPU) of about $50, this results in an estimated **revenue loss of $250**.
 Compared to the current total revenue of $1,970, fixing this issue could **increase revenue by around 12.5%**.
-This means improving the onboarding to trial step especially for ads users—can increase revenue without needing more traffic.
+This means improving the onboarding to trial step especially for ads users can increase revenue without needing more traffic.
 
 <br>
 
