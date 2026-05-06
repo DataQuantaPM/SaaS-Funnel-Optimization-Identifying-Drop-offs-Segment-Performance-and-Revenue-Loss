@@ -6,7 +6,7 @@ The main conversion issue occurs in the **late funnel stages**, particularly fro
 
 Although top-of-funnel performance is strong, a large portion of users—especially from paid ads—fail to convert into trial users, resulting in missed revenue opportunities.
 
----
+
 
 ## 1. Funnel Analysis
 
