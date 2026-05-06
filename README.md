@@ -2,7 +2,7 @@
 
 <br>
 
-
+<img src="Images/funnel conversion overall n step.png" width="900">
 
 <br>
 
