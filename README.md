@@ -177,4 +177,12 @@ Offer stronger incentives for ads users to start a trial, such as:
 
 ## 📌 Tools used
 
+- SQL
+
+  Used for data cleaning, transformation, and funnel analysis, including handling duplicates, fixing inconsistent values, and calculating conversion metrics.
+
+- Tableau
+
+  Used for data visualization, including funnel charts and performance comparisons across sources, devices, and countries.
+
 <br>
