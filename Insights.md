@@ -1,4 +1,4 @@
-# 📊 Funnel Analysis Insights
+# Funnel Analysis Insights
 
 ## 🔍 Executive Summary
 
