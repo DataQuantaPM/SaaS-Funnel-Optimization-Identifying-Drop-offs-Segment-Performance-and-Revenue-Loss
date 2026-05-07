@@ -12,7 +12,7 @@ Although top of funnel performance is strong, a large portion of users especiall
 
 ## 1. Funnel Analysis
 
-<img src="Images/Funnel Conversion Overall n Step.png" width="700">
+<img src="../Images/Funnel Conversion Overall n Step.png" width="700">
 
 ### 🔹 Key Insight — Late Funnel is the Primary Bottleneck
 
@@ -38,7 +38,7 @@ A significant drop occurs after onboarding completion:
 
 <br>
 
-<img src="Images/Ads Conversion.png" width="500">   <img src="Images/Other Conversion.png" width="500">
+<img src="../Images/Ads Conversion.png" width="500">   <img src="../Images/Other Conversion.png" width="500">
 
 ### 🔹 Paid Ads Drive Volume but Lower Conversion Quality
 
