@@ -91,7 +91,7 @@ In reality, only 106 users reached the trial stage, meaning about 53 users were 
 
 **🔹 Potential revenue loss is concentrated in the trial stage**
 
-The loss of 53 trial users leads to an estimated loss of about 5 paying users, assuming a 10% conversion from trial to purchase.  
+The loss of 53 trial users leads to an estimated loss of about 5-6 paying users, assuming a 10.4% conversion from trial to purchase.  
 This makes the trial stage the most critical point to improve.
 
 <br>
@@ -104,9 +104,9 @@ Even though many users complete onboarding, the ads channel performs poorly in m
 Based on other sources, ads **should generate around 159 trial users**, but only 106 users actually start a trial.
 
 This creates a **gap of 53 users** who could have entered the trial stage but did not.
-If we assume a 10% conversion rate from trial to purchase, this means around **5 potential paying users** are lost.
-With an average revenue per user (ARPU) of about $50, this results in an estimated **revenue loss of $250**.
-Compared to the current total revenue of $1,970, fixing this issue could **increase revenue by around 12.5%**.
+If we assume a 10.4% conversion rate from trial to purchase, this means around **5 potential paying users** are lost.
+With an average revenue per user (ARPU) of about $49.25, this results in an estimated **revenue loss of $271**.
+Compared to the current total revenue of $1,970, fixing this issue could **increase revenue by around 13.8%**.
 This means improving the onboarding to trial step especially for ads users can increase revenue without needing more traffic.
 
 <br>
