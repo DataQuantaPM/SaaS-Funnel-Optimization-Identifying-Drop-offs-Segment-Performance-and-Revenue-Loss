@@ -157,7 +157,7 @@ Test different variations of:
 
 - Trial messaging
 
-- Incentives (e.g., limited-time offers)
+- Incentives (limited time offers)
 
 Measure which version improves conversion from onboarding to trial.
 
