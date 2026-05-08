@@ -42,7 +42,7 @@ A significant drop occurs after onboarding completion:
 
 ### 🔹 Paid Ads Drive Volume but Lower Conversion Quality
 
-* Ads contribute the largest number of users (1,472 users)
+* Ads contribute the largest number of users (1,470 users)
 * However, conversion drops significantly at:
 
   * Onboarding → Trial
@@ -84,24 +84,24 @@ Based on the observed patterns, several possible causes:
 * Actual trial users from ads: 106
 * Lost trial users: 53
 
-With ~10% trial-to-purchase conversion:
+With 10.4% trial-to-purchase conversion:
 
-* Estimated lost paying users: ~5 users
+* Estimated lost paying users: 5-6 users
 
-With ARPU ≈ $50:
+With ARPU ≈ $49.25:
 
-* Estimated lost revenue: **~$250**
+* Estimated lost revenue: **~$271**
 
 <br>
 
 ### 📈 Revenue Opportunity
 
 * Current revenue: $1,970
-* Potential revenue: $2,220
+* Potential revenue: $2,241
 
 👉 This represents approximately:
 
-**+12.5% revenue increase**
+**+13.8% revenue increase**
 
 <br>
 
