@@ -119,7 +119,7 @@ With ARPU ≈ $49.25:
 
 * Add stronger call-to-action after onboarding
 * Highlight product value more clearly
-* Introduce incentives (e.g., extended trial, onboarding prompts)
+* Introduce incentives (extended trial, onboarding prompts)
 
 <br>
 
