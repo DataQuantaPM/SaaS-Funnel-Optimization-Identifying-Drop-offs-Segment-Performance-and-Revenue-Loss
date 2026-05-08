@@ -7,7 +7,7 @@
 <br>
 
 ## 📌 Background problem
-In SaaS B2C businesses, converting users through each stage of the funnel is important for driving revenue. 
+In SaaS businesses, converting users through each stage of the funnel is important for driving revenue. 
 
 However, many users drop off at key stages, which can reduce overall conversion and lead to lost revenue.
 
