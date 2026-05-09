@@ -33,6 +33,13 @@ Each row represents a user event, meaning a single user can appear multiple time
 
 <br>
 
+
+| Header 1 | Header 2 | Header 3 |
+| -------- | -------- | -------- |
+| Sel 1    | Sel 2    | Sel 3    |
+| Sel 4    | Sel 5    | Sel 6    |
+
+
 The dataset includes the following key fields:
 
 🔹 **user_id**: unique identifier for each user
