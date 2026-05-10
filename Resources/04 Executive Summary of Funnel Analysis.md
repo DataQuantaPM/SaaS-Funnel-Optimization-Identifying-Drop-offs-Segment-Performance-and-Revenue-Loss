@@ -4,5 +4,6 @@
 
 
 <br>
+<br>
 
-<img src="../Images/Executive Summary of Funnel Analysis.png" width="650">
+<img src="../Images/Executive Summary of Funnel Analysis.png" width="700">
