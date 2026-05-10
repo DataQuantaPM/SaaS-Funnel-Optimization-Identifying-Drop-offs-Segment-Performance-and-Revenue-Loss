@@ -4,5 +4,6 @@
 
 
 <br>
+<br>
 
-<img src="../Images/Executive Summary of Data Overview n Cleaning.png" width="500">
+<img src="../Images/Executive Summary of Data Overview n Cleaning.png" width="700">
