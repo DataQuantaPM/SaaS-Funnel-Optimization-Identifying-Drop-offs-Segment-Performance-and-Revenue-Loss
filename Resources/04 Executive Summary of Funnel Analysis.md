@@ -1,6 +1,6 @@
 # Executive Summary of Funnel Analysis
 
-[*Full Canva Presentation Link Here*](https://canva.link/go46br4i0cnmnpn)
+[*Full Canva Presentation Link Here*](https://canva.link/s2pw96h0jjj1ese)
 
 
 <br>
