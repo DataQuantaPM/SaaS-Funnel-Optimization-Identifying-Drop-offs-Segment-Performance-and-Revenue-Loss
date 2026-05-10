@@ -1,6 +1,6 @@
 # Executive Summary of Data Overview & Cleaning
 
-[*Full Canva Presentation Link Here   *](https://canva.link/678onhvvsjyx7yu)  <-- Created by Ai
+[*Full Canva Presentation Link Here*](https://canva.link/678onhvvsjyx7yu)      <-- Created by Ai
 
 
 <br>
