@@ -4,28 +4,32 @@
 <br>
 <br>
 
+The project repository is organized as follows : 
+
+<br>
+
 ```
 SaaS Funnel Optimization Identifying Drop-offs Segment Performance and Revenue Loss/
 │
-├── README.md
-├── Project Structure.md
-├── Business Insights.md
-├── Executive Summary.md
+├── README.md                                                        →   Main project overview, findings, impact, and recommendations.
+├── Project Structure.md                                             →   Explanation of project folders and files.
+├── Business Insights.md                                             →   Detailed funnel, segment, and revenue insights.
+├── Executive Summary.md                                             →   High-level business summary for stakeholders.
 │
 │
 │
 ├── Resources/
 │   │
 │   ├── data/
-│   │   ├── Clean_Dataset.csv
-│   │   └── Raw_Dataset.csv
+│   │   ├── Clean_Dataset.csv                                        →   Final cleaned dataset.
+│   │   └── Raw_Dataset.csv                                          →   Original raw dataset.
 │   │
-│   ├── 01_C1_Data_Overview_n_Cleaning.sql
-│   ├── 02_C1_Executive_Summary_of_Data_Overview_n_Cleaning.md
-│   ├── 03_C2_Funnel_Analysis.sql
-│   ├── 04_C2_Executive_Summary_of_Funnel_Analysis.md
-│   ├── 05_C3_Revenue_Analysis.sql
-│   └── 06_C3_Executive_Summary_of_Revenue_Analysis.md
+│   ├── 01_C1_Data_Overview_n_Cleaning.sql                           →   SQL queries for data cleaning and preprocessing.
+│   ├── 02_C1_Executive_Summary_of_Data_Overview_n_Cleaning.md       →   Summary of data quality and cleaning process.
+│   ├── 03_C2_Funnel_Analysis.sql                                    →   SQL queries for funnel and conversion analysis.
+│   ├── 04_C2_Executive_Summary_of_Funnel_Analysis.md                →   Summary of funnel bottlenecks and conversion insights.
+│   ├── 05_C3_Revenue_Analysis.sql                                   →   SQL queries for revenue and business impact analysis.
+│   └── 06_C3_Executive_Summary_of_Revenue_Analysis.md               →   Summary of revenue opportunity and impact.
 │
 │
 │
