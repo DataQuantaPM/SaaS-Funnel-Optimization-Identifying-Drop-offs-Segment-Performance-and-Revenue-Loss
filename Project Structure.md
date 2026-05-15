@@ -8,6 +8,7 @@
 SaaS Funnel Optimization Identifying Drop-offs Segment Performance and Revenue Loss/
 │
 ├── README.md
+├── Project Structure.md
 ├── Business Insights.md
 ├── Executive Summary.md
 │
