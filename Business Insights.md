@@ -1,4 +1,4 @@
-# Funnel Analysis Insights
+# Business Insights
 
 <br>
 
