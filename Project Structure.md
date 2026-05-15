@@ -14,7 +14,7 @@ SaaS Funnel Optimization Identifying Drop-offs Segment Performance and Revenue L
 ├── README.md                                                 →   Main project overview, findings, impact, and recommendations.
 ├── Project Structure.md                                      →   Explanation of project folders and files.
 ├── Business Insights.md                                      →   Detailed funnel, segment, and revenue insights.
-├── Executive Summary.md                                      →   High-level business summary for stakeholders.
+├── Executive Summary.md                                      →   High level business summary for stakeholders.
 │
 │
 │
