@@ -11,10 +11,10 @@ The project repository is organized as follows :
 ```
 SaaS Funnel Optimization Identifying Drop-offs Segment Performance and Revenue Loss/
 │
-├── README.md                                                      →   Main project overview, findings, impact, and recommendations.
-├── Project Structure.md                                           →   Explanation of project folders and files.
-├── Business Insights.md                                           →   Detailed funnel, segment, and revenue insights.
-├── Executive Summary.md                                           →   High-level business summary for stakeholders.
+├── README.md                                                 →   Main project overview, findings, impact, and recommendations.
+├── Project Structure.md                                      →   Explanation of project folders and files.
+├── Business Insights.md                                      →   Detailed funnel, segment, and revenue insights.
+├── Executive Summary.md                                      →   High-level business summary for stakeholders.
 │
 │
 │
