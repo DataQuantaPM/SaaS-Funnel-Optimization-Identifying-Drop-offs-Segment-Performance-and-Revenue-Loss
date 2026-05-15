@@ -6,6 +6,14 @@
 <br>
 <br>
 
-<img src="../Images/Executive Summary of Data Overview n Cleaning.png" width="700">
-<img src="../Images/Executive Summary of Funnel Analysis.png" width="700">
-<img src="../Images/Executive Summary of Revenue Analysis.png" width="700">
+<img src="Images/Executive Summary of Data Overview n Cleaning.png" width="700">
+
+<br>
+<br>
+
+<img src="Images/Executive Summary of Funnel Analysis.png" width="700">
+
+<br>
+<br>
+
+<img src="Images/Executive Summary of Revenue Analysis.png" width="700">
