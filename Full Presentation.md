@@ -1,4 +1,4 @@
-# Funnel Analysis Case Study Presentation
+# Funnel Analysis Full Presentation
 
 This presentation summarizes the end-to-end analysis of a SaaS conversion funnel project, including:
 
