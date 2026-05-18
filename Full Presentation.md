@@ -17,6 +17,6 @@ This presentation summarizes the end-to-end analysis of a SaaS conversion funnel
 
 ## Related Resources
 - [Executive Summary](https://canva.link/zwmf3epx631fd4a)
-- [SQL Queries](LINK)
+- [SQL Queries](https://github.com/DataQuantaPM/SaaS-Funnel-Optimization-Identifying-Drop-offs-Segment-Performance-and-Revenue-Loss/tree/main/Resources)
 - [Project Structure](LINK)
 - [Main Project README](LINK)
