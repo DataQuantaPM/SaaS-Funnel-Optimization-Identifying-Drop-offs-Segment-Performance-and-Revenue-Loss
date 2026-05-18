@@ -1,5 +1,7 @@
 # Executive Summary
 
+## Related Resources
+
 [*Full Canva Presentation Link Here*](https://canva.link/zwmf3epx631fd4a)   &emsp;   <-- Created by Ai
 
 
@@ -13,16 +15,7 @@
 
 <br>
 
----
-
-<br>
-
-<img src="Images/Executive Summary of Funnel Analysis.png" width="700">
-
-<br>
-
----
-
-<br>
-
-<img src="Images/Executive Summary of Revenue Analysis.png" width="700">
+## Related Resources
+- [SQL Queries](https://github.com/DataQuantaPM/SaaS-Funnel-Optimization-Identifying-Drop-offs-Segment-Performance-and-Revenue-Loss/tree/main/Resources)
+- [Project Structure](https://github.com/DataQuantaPM/SaaS-Funnel-Optimization-Identifying-Drop-offs-Segment-Performance-and-Revenue-Loss/blob/main/Project%20Structure.md)
+- [Main Project README](https://github.com/DataQuantaPM/SaaS-Funnel-Optimization-Identifying-Drop-offs-Segment-Performance-and-Revenue-Loss/blob/main/README.md)
