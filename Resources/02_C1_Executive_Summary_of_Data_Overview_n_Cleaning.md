@@ -11,7 +11,7 @@
 <br>
 
 ## Related Resources
-- [Executive Summary 2]()
+- [Executive Summary 2](https://github.com/DataQuantaPM/SaaS-Funnel-Optimization-Identifying-Drop-offs-Segment-Performance-and-Revenue-Loss/blob/main/Resources/04_C2_Executive_Summary_of_Funnel_Analysis.md)
 - [Full Executive Summary](https://github.com/DataQuantaPM/SaaS-Funnel-Optimization-Identifying-Drop-offs-Segment-Performance-and-Revenue-Loss/blob/main/Executive%20Summary.md)
 - [Project Structure](https://github.com/DataQuantaPM/SaaS-Funnel-Optimization-Identifying-Drop-offs-Segment-Performance-and-Revenue-Loss/blob/main/Project%20Structure.md)
 - [Main Project README](https://github.com/DataQuantaPM/SaaS-Funnel-Optimization-Identifying-Drop-offs-Segment-Performance-and-Revenue-Loss/blob/main/README.md)
