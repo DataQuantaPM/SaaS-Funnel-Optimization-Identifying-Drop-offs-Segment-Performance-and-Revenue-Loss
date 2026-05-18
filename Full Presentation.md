@@ -16,7 +16,7 @@ This presentation summarizes the end-to-end analysis of a SaaS conversion funnel
 <br>
 
 ## Related Resources
-- [Executive Summary](LINK)
+- [Executive Summary](https://canva.link/zwmf3epx631fd4a)
 - [SQL Queries](LINK)
 - [Project Structure](LINK)
 - [Main Project README](LINK)
