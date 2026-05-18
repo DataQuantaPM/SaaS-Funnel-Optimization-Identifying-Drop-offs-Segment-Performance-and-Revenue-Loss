@@ -90,6 +90,32 @@ This makes the trial stage the most critical point to improve.
 
 <br>
 
+## 📌 Root Cause Hypothesis
+
+Based on the funnel and source analysis, the drop-off from onboarding to trial is likely driven by several factors:
+
+- **Low-intent traffic from paid ads**
+  
+  Ads users may sign up and complete onboarding, but they may not have strong enough intent to start a trial.
+
+- **Mismatch between ad messaging and product value**
+  
+  Users may expect a simpler or different product experience based on the ad, which can reduce motivation after onboarding.
+
+- **Weak onboarding-to-trial transition**
+  
+  The product may not clearly explain why users should start a trial after completing onboarding.
+
+- **Trial activation friction**
+  
+  Users may face too many steps, unclear CTA, or lack of incentive before starting a trial.
+
+
+These are hypotheses and should be validated through further analysis, user behavior tracking, and A/B testing.
+
+
+<br>
+
 ## 📌 Business impact
 
 
