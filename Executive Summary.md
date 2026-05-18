@@ -1,17 +1,12 @@
 # Executive Summary
 
-## Related Resources
+<br>
 
 [*Full Canva Presentation Link Here*](https://canva.link/zwmf3epx631fd4a)   &emsp;   <-- Created by Ai
 
-
 <br>
 
----
-
-<br>
-
-<img src="Images/Executive Summary of Data Overview n Cleaning.png" width="700">
+<img src="Images/Executive Summary of Data Overview n Cleaning.png" width="400">
 
 <br>
 
