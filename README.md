@@ -94,7 +94,7 @@ This makes the trial stage the most critical point to improve.
 
 Based on the funnel and source analysis, the drop-off from onboarding to trial is likely driven by several factors:
 
-- **Low-intent traffic from paid ads**
+- **Low intent traffic from paid ads**
   
   Ads users may sign up and complete onboarding, but they may not have strong enough intent to start a trial.
 
@@ -102,7 +102,7 @@ Based on the funnel and source analysis, the drop-off from onboarding to trial i
   
   Users may expect a simpler or different product experience based on the ad, which can reduce motivation after onboarding.
 
-- **Weak onboarding-to-trial transition**
+- **Weak onboarding to trial transition**
   
   The product may not clearly explain why users should start a trial after completing onboarding.
 
