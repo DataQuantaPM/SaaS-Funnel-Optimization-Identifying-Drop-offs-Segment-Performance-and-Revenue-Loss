@@ -56,7 +56,7 @@ _Data cleaning steps including deduplication and null handling —_ [ See Full S
 <br>
 
 ## 📌 Key Analysis
-### Funnel Conversion by Acquisition Source
+### Funnel Conversion by Acquisition Source :
 
 The following query shows funnel conversion rate per acquisition source, the core analysis of this project:
 
@@ -87,7 +87,7 @@ ORDER BY complete_to_trial
 
 _Funnel conversion rate analysis by acquisition source —_ [ See Full SQL Code ](https://github.com/DataQuantaPM/SaaS-Funnel-Optimization-Identifying-Drop-offs-Segment-Performance-and-Revenue-Loss/blob/main/Resources/03_C2_Funnel_Analysis.sql)
 
-### Revenue Impact Estimation
+### Revenue Impact Estimation :
 
 _Revenue loss estimation by acquisition source —_ [See Full SQL Code](https://github.com/DataQuantaPM/SaaS-Funnel-Optimization-Identifying-Drop-offs-Segment-Performance-and-Revenue-Loss/blob/main/Resources/05_C3_Revenue_Analysis.sql)
 
