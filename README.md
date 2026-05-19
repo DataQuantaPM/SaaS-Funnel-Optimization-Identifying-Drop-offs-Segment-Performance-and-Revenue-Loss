@@ -111,9 +111,6 @@ Based on the funnel and source analysis, the drop-off from onboarding to trial i
   Users may face too many steps, unclear CTA, or lack of incentive before starting a trial.
 
 
-These are hypotheses and should be validated through further analysis, user behavior tracking, and A/B testing.
-
-
 <br>
 
 ## 📌 Business impact
