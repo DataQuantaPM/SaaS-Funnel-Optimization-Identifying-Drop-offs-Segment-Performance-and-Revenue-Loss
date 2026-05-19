@@ -55,6 +55,10 @@ _Data cleaning steps including deduplication and null handling —_ [ See Full S
 
 <br>
 
+**Key Analysis: Funnel Conversion by Acquisition Source**
+
+The following query shows funnel conversion rate per acquisition source, the core analysis of this project:
+
 ```sql
 /* =========================================================
    CONVERSION BY SOURCE
@@ -77,6 +81,8 @@ SELECT
 FROM conversion
 ORDER BY complete_to_trial
 ```
+
+<br>
 
 ## 📌 Key findings
 
