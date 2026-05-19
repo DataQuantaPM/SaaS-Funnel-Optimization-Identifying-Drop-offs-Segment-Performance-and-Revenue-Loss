@@ -73,7 +73,7 @@ WITH conversion AS (
 SELECT
     *,
     ROUND(trial_users * 1.0 / onboarding_complete_users, 2) AS complete_to_trial,
-    ROUND(purchase_users * 1.0 / trial_users, 2) AS trial_to_purchase,
+    ROUND(purchase_users * 1.0 / trial_users, 2) AS trial_to_purchase
 FROM conversion
 ORDER BY complete_to_trial
 ```
