@@ -84,6 +84,10 @@ ORDER BY complete_to_trial
 
 <br>
 
+[ See Full Analytics SQL Code ⤴ ]()
+
+<br>
+
 ## 📌 Key findings
 
 **🔹 Significant drop off occurs in the late funnel stages**
