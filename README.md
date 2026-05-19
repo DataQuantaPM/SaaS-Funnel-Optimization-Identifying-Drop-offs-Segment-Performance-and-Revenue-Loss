@@ -207,6 +207,6 @@ Offer stronger incentives for ads users to start a trial, such as:
 
 - **Chat GPT**
 
-  Used for the analytical process , design executive summary, including data overview & cleaning, funnel analysis, and revenue analysis.
+  Used as writing assistant for documentation, creating slide presentation and executive summary, including data overview & cleaning, funnel analysis, and revenue analysis.
 
 <br>
