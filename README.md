@@ -51,6 +51,8 @@ The dataset includes the following key fields:
 
 The dataset contains typical data quality issues, such as missing values, inconsistent labeling, and duplicate records.
 
+_Data cleaning steps including deduplication and null handling —_ 
+
 <br>
 
 ## 📌 Key findings
