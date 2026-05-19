@@ -84,7 +84,7 @@ ORDER BY complete_to_trial
 
 <br>
 
-[ See Full Analytics SQL Code ⤴ ]()
+_Funnel conversion rate analysis by acquisition source —_ [ See Full SQL Code ⤴ ]()
 
 <br>
 
