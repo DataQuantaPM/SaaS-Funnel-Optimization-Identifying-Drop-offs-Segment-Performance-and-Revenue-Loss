@@ -51,7 +51,7 @@ The dataset includes the following key fields:
 
 The dataset contains typical data quality issues, such as missing values, inconsistent labeling, and duplicate records.
 
-_Data cleaning steps including deduplication and null handling —_ 
+_Data cleaning steps including deduplication and null handling —_ [ See Full SQL Code ](https://github.com/DataQuantaPM/SaaS-Funnel-Optimization-Identifying-Drop-offs-Segment-Performance-and-Revenue-Loss/blob/main/Resources/01_C1_Data_Overview_n_Cleaning.sql)
 
 <br>
 
