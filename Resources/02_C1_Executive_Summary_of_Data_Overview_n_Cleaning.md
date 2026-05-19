@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<img src="../Images/Executive Summary of Data Overview n Cleaning.png" width="400">
+<img src="../Images/Executive Summary/Executive Summary of Data Overview n Cleaning.png" width="400">
 
 <br>
 
