@@ -78,7 +78,7 @@ This suggests these users have stronger intent and better fit with the product.
 
 **🔹 Measurable user loss in trial stage (Ads segment)**
 
-Based on a benchmark conversion rate (~35%), ads are expected to generate around 159 trial users.  
+Based on a benchmark expected ads conversion rate (~35%), ads are expected to generate around 159 trial users.  
 In reality, only 106 users reached the trial stage, meaning about 53 users were lost.
 
 <br>
