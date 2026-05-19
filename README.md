@@ -84,7 +84,7 @@ ORDER BY complete_to_trial
 
 <br>
 
-_Funnel conversion rate analysis by acquisition source —_ [ See Full SQL Code ⤴ ](https://github.com/DataQuantaPM/SaaS-Funnel-Optimization-Identifying-Drop-offs-Segment-Performance-and-Revenue-Loss/blob/main/Resources/03_C2_Funnel_Analysis.sql)
+_Funnel conversion rate analysis by acquisition source —_ [ See Full SQL Code ](https://github.com/DataQuantaPM/SaaS-Funnel-Optimization-Identifying-Drop-offs-Segment-Performance-and-Revenue-Loss/blob/main/Resources/03_C2_Funnel_Analysis.sql)
 
 <br>
 
