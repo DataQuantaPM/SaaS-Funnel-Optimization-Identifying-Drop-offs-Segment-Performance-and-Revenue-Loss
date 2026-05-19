@@ -33,12 +33,26 @@ SaaS Funnel Optimization Identifying Drop-offs Segment Performance and Revenue L
 │
 │
 ├── Images/
+│   │
+│   ├── Executive Summary/                                         →   A brief summary of the project
+│   │   ├── Executive Summary of Data Overview n Cleaning.png      ⤴
+│   │   ├── Executive Summary of Funnel Analysis.png               ⤴
+│   │   ├── Executive Summary of Revenue Analysis.png              ⤴
+│   │
+│   ├── Slide Presentation/                                        →   Full Detail Presentation Project
+│   │   ├── Slide 1.png                                            ⤴
+│   │   ├── Slide 2.png                                            ⤴
+│   │   ├── Slide 3.png                                            ⤴
+│   │   ├── Slide 4.png                                            ⤴
+│   │   ├── Slide 5.png                                            ⤴
+│   │   ├── Slide 6.png                                            ⤴
+│   │   ├── Slide 7.png                                            ⤴
+│   │   ├── Slide 8.png                                            ⤴
+│   │   ├── Slide 9.png                                            ⤴
+│   │
 │   ├── Ads Conversion.png
 │   ├── Conversion Overall.png
 │   ├── Conversion Step.png
-│   ├── Executive Summary of Data Overview n Cleaning.png
-│   ├── Executive Summary of Funnel Analysis.png
-│   ├── Executive Summary of Revenue Analysis.png
 │   ├── Funnel Conversion Overall n Step arrow.png
 │   ├── Funnel Conversion Overall n Step.png
 │   ├── Funnel Conversion Overall.png
