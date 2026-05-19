@@ -55,6 +55,29 @@ _Data cleaning steps including deduplication and null handling —_ [ See Full S
 
 <br>
 
+```sql
+/* =========================================================
+   CONVERSION BY SOURCE
+   ========================================================= */
+
+WITH conversion AS (
+    SELECT
+        new_source AS source,
+        COUNT(DISTINCT user_id) AS total_user,
+        COUNT(DISTINCT CASE WHEN funnel_step_real = 'onboarding_completed' THEN user_id END) AS onboarding_complete_users,
+        COUNT(DISTINCT CASE WHEN funnel_step_real = 'trial_started' THEN user_id END) AS trial_users,
+        COUNT(DISTINCT CASE WHEN funnel_step_real = 'purchase' THEN user_id END) AS purchase_users
+    FROM final_clean_data
+    GROUP BY new_source
+)
+SELECT
+    *,
+    ROUND(trial_users * 1.0 / onboarding_complete_users, 2) AS complete_to_trial,
+    ROUND(purchase_users * 1.0 / trial_users, 2) AS trial_to_purchase,
+FROM conversion
+ORDER BY complete_to_trial
+```
+
 ## 📌 Key findings
 
 **🔹 Significant drop off occurs in the late funnel stages**
